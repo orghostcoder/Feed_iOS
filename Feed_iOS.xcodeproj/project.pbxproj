@@ -119,6 +119,37 @@
 			path = Feed_iOS/Utils/Helpers;
 			sourceTree = SOURCE_ROOT;
 		};
+		01BF11A22062367A00774CD0 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				01BF11A32062383000774CD0 /* Base */,
+				01BF11A52062386F00774CD0 /* Controllers */,
+				01BF11A42062386F00774CD0 /* Views */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		01BF11A32062383000774CD0 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		01BF11A42062386F00774CD0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		01BF11A52062386F00774CD0 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
 		01E9BA32205A4D7500D6C925 = {
 			isa = PBXGroup;
 			children = (
@@ -145,6 +176,7 @@
 			isa = PBXGroup;
 			children = (
 				01BF11902060E48700774CD0 /* Utils */,
+				01BF11A22062367A00774CD0 /* Classes */,
 				01E9BA70205A4F1000D6C925 /* SupportingFiles */,
 			);
 			path = Feed_iOS;
